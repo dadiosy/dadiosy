@@ -1,13 +1,7 @@
 ### 👋 Hello, Welcome to dadiosy
-&nbsp;&nbsp;&nbsp; Howdy, I'm a seasoned full-stack developer with **over a decade** of dedicated practice.
-I prioritize client satisfaction over earnings, which is why I focus on delivering quality work.
+&nbsp;&nbsp;&nbsp; With good experience in front-end development and passion for creating beautiful and pixel-perfect websites. I have robust HTML and CSS skills and a lot of experience with responsive web design/implementation, and have taken the role of a lead front-end developer for several projects. I am skilled professional with expertise in JavaScript libraries and frameworks. I am very detail-oriented and communicate well. I am committed to delivering high-quality work and excited to consider new challenges to help organizations succeed in the digital realm.
 
 ### 💻 Technologies 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
